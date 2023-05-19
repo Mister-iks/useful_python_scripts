@@ -36,11 +36,8 @@ Ce dépôt contient 10 scripts Python différents qui peuvent être utiles dans 
 
    Ce script extrait des informations spécifiques à partir de pages web en utilisant la bibliothèque Beautiful Soup.
 
-9. **Script de conversion de formats de fichiers**
 
-   Ce script convertit des fichiers entre différents formats, comme PDF en texte, PNG en JPEG, etc.
-
-10. **Script de génération de miniatures d'images**
+9. **Script de génération de miniatures d'images**
 
     Ce script redimensionne des images et crée des miniatures pour une visualisation ou un traitement plus rapide.
 
